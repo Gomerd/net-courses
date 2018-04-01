@@ -6,7 +6,7 @@
   
 using System.Collections.Generic;
 
-namespace DataFile{  
+namespace T4ExampleConsoleApp{  
 
   
     public partial class Catalog  

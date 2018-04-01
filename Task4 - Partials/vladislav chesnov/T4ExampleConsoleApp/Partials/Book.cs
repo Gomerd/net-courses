@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace T4ExampleConsoleApp
 {
-    class Program
+    public partial class Book
     {
-        static void Main(string[] args)
-        {
-        }
+        public string Format { get; set; }
+        public string Author { get; set; }
+        public int PagesAmount { get; set; }
     }
 }
