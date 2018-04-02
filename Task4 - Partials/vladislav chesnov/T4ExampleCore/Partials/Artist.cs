@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace T4ExampleConsoleApp
+namespace MyNameSpace
 {
     public partial class Artist
     {

@@ -6,7 +6,7 @@
   
 using System.Collections.Generic;
 
-namespace T4ExampleConsoleApp{  
+namespace MyNameSpace{  
 
   
     public partial class Catalog  
